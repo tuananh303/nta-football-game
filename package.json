@@ -1,0 +1,15 @@
+{
+  "name": "luan-luu-11m",
+  "version": "1.0.0",
+  "description": "Game đá luân lưu 11m: CLB Ngoại hạng Anh, La Liga, Bundesliga, Serie A mùa 2026/27",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
